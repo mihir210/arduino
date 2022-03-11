@@ -1,4 +1,4 @@
-const int hot = 87; // set hot parameter
+const int hot = 25; // set hot parameter
 int val;
 void setup()
 {
